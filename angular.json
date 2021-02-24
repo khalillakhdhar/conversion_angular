@@ -127,10 +127,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "angularjs-to-angular",
-  "cli": {
-    "analytics": "366551bc-6b36-474d-986d-f48ba6949d08"
-  }
+    }},
+  "defaultProject": "angularjs-to-angular"
 }
